@@ -60,9 +60,11 @@ https://github.com/fedimint/fedimint/discussions/1504
 🍴 Fork [Cashu Dev Kit](https://github.com/cashubtc/cdk)
 
 🎱 Create [HashPool](https://github.com/vnprc/hashpool)
+<!-- column_layout: [1,1]-->
+<!-- column: 0 -->
+![image:width:100%](images/dependency.jpg)
 
-TODO: meme
-
+<!-- column: 1 -->
 ** Sprinkle in Redis to abstract some data availability not ready for demo 😅
 
 <!-- end_slide -->
@@ -103,11 +105,18 @@ fine.
 
 <!-- end_slide -->
 
-future dev?
+# TODO
+
+- refactor
+- refactor
+- refactor
+- upstream code
+- launch mainnet
+- enable HASH on multiple Cashu wallets
 
 <!-- end_slide -->
 
-# Thank you
+# Thank you Hashpool team!
 
 Resources:
 - https://github.com/vnprc/hashpool
