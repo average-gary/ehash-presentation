@@ -31,6 +31,8 @@ Demonstration to a mining pool that you're hashing.
 
 Used for hashrate accounting using [Poisson distribution](https://en.wikipedia.org/wiki/Poisson_distribution)
 
+![image:width:80%](./images/calculating.jpg)
+
 p.s. hashrate measurement is a guess
 
 <!-- end_slide -->
@@ -65,7 +67,7 @@ https://github.com/fedimint/fedimint/discussions/1504
 ![image:width:100%](images/dependency.jpg)
 
 <!-- column: 1 -->
-** Sprinkle in Redis to abstract some data availability not ready for demo 😅
+** Sprinkle in Redis to loosely couple some of the services for now 😅
 
 <!-- end_slide -->
 
@@ -107,13 +109,16 @@ fine.
 
 # TODO
 
+<!-- column_layout: [1, 1]-->
+<!-- column: 0 -->
 - refactor
 - refactor
 - refactor
 - upstream code
 - launch mainnet
 - enable HASH on multiple Cashu wallets
-
+<!-- column: 1 -->
+![image:width:100%](./images/galaxy.jpg)
 <!-- end_slide -->
 
 # Thank you Hashpool team!
