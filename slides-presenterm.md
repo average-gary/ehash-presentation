@@ -101,9 +101,13 @@ https://github.com/fedimint/fedimint/discussions/1504
 
 <!-- end_slide -->
 
-# JUST SHOW THEM THE CODE
+# Spellbook Review
 
-fine.
+Let's review code!
+
+![](./images/goblin.png)
+
+p.s. mining devs are referred to as goblins
 
 <!-- end_slide -->
 
@@ -130,7 +134,9 @@ Resources:
 - https://cashubtc.github.io/nuts/
 - https://github.com/stratum-mining/stratum
 
-AVERAGE_GARY
+AVERAGE_GARY 
+- https://primal.net/gary
+- https://github.com/average-gary
 - https://shenandoahbitcoin.club
 - https://bitcoinveterans.org
 - https://dcbitdevs.com
